@@ -50,4 +50,4 @@ const App = () => {
 
 export default App;
 
-// goto: 8 Using flexBox
+// goto: 11 styling form elements
