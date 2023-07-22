@@ -50,4 +50,4 @@ const App = () => {
 
 export default App;
 
-// goto: 7 Fetching Data
+// goto:
